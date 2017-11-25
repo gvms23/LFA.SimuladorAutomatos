@@ -49,5 +49,5 @@ Para abrir outro Formulário, foi colocado o seguinte código utilizando o conce
 Vídeo com o funcionamento:
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=-m_6-NcoNHc"><img src="https://img.youtube.com/vi/-m_6-NcoNHc/0.jpg" alt="Simulador de Autômatos - C# (Youtube)"></a>
+  <a href="https://www.youtube.com/watch?v=-m_6-NcoNHc" target="_blank"><img src="https://img.youtube.com/vi/-m_6-NcoNHc/0.jpg" alt="Simulador de Autômatos - C# (Youtube)"></a>
 </div>
