@@ -1,0 +1,23 @@
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\bin\Debug\SimuladorAutomatos.exe.config
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.exe
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.pdb
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\bin\Debug\SimuladorAutomatos.exe
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\bin\Debug\SimuladorAutomatos.pdb
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.Properties.Resources.resources
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.csproj.GenerateResource.Cache
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.frmExercicio1.resources
+C:\Users\Marcos\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.frmExercicio2.resources
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\bin\Debug\SimuladorAutomatos.exe.config
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\bin\Debug\SimuladorAutomatos.exe
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\bin\Debug\SimuladorAutomatos.pdb
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.csprojResolveAssemblyReference.cache
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.frmExercicio1.resources
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.frmExercicio2.resources
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.Properties.Resources.resources
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.csproj.GenerateResource.Cache
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.exe
+C:\Users\Tabada\OneDrive\Faculdade\Rogério - Automatos\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.pdb
+C:\Users\Tabada\OneDrive\Faculdade\LFA\SimuladorAutomatos - Gabriel Vicente\SimuladorAutomatos\SimuladorAutomatos\bin\Debug\SimuladorAutomatos.exe.config
+C:\Users\Tabada\OneDrive\Faculdade\LFA\SimuladorAutomatos - Gabriel Vicente\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.exe
+C:\Users\Tabada\OneDrive\Faculdade\LFA\SimuladorAutomatos - Gabriel Vicente\SimuladorAutomatos\SimuladorAutomatos\obj\Debug\SimuladorAutomatos.pdb
